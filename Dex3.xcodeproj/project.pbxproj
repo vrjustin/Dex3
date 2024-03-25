@@ -55,11 +55,12 @@
 		1A3BAE252BAC79DB003498C5 /* Dex3 */ = {
 			isa = PBXGroup;
 			children = (
+				1A3BAE3A2BAC79F7003498C5 /* Models */,
+				1A3BAE392BAC79F1003498C5 /* Views */,
 				1A3BAE262BAC79DB003498C5 /* Dex3App.swift */,
-				1A3BAE282BAC79DB003498C5 /* ContentView.swift */,
-				1A3BAE2A2BAC79DC003498C5 /* Assets.xcassets */,
 				1A3BAE2F2BAC79DC003498C5 /* Persistence.swift */,
 				1A3BAE312BAC79DC003498C5 /* Dex3.xcdatamodeld */,
+				1A3BAE2A2BAC79DC003498C5 /* Assets.xcassets */,
 				1A3BAE2C2BAC79DC003498C5 /* Preview Content */,
 			);
 			path = Dex3;
@@ -71,6 +72,21 @@
 				1A3BAE2D2BAC79DC003498C5 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		1A3BAE392BAC79F1003498C5 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				1A3BAE282BAC79DB003498C5 /* ContentView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		1A3BAE3A2BAC79F7003498C5 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

@@ -19,6 +19,7 @@
 		1AB835592BB2D8EF009743BF /* PokemonDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AB835582BB2D8EF009743BF /* PokemonDetailView.swift */; };
 		1AB8355B2BB2DB41009743BF /* SamplePokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AB8355A2BB2DB41009743BF /* SamplePokemon.swift */; };
 		1AB8355D2BB2EDF1009743BF /* Pokemon+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AB8355C2BB2EDF1009743BF /* Pokemon+Extension.swift */; };
+		1AE227A42BB2F65E00596059 /* StatsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AE227A32BB2F65E00596059 /* StatsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		1AB835582BB2D8EF009743BF /* PokemonDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonDetailView.swift; sourceTree = "<group>"; };
 		1AB8355A2BB2DB41009743BF /* SamplePokemon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SamplePokemon.swift; sourceTree = "<group>"; };
 		1AB8355C2BB2EDF1009743BF /* Pokemon+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pokemon+Extension.swift"; sourceTree = "<group>"; };
+		1AE227A32BB2F65E00596059 /* StatsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 			children = (
 				1A3BAE282BAC79DB003498C5 /* ContentView.swift */,
 				1AB835582BB2D8EF009743BF /* PokemonDetailView.swift */,
+				1AE227A32BB2F65E00596059 /* StatsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -193,6 +196,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1AE227A42BB2F65E00596059 /* StatsView.swift in Sources */,
 				1A3BAE302BAC79DC003498C5 /* Persistence.swift in Sources */,
 				1AB835592BB2D8EF009743BF /* PokemonDetailView.swift in Sources */,
 				1A3BAE332BAC79DC003498C5 /* Dex3.xcdatamodeld in Sources */,

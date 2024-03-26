@@ -15,6 +15,7 @@
 		1A3BAE332BAC79DC003498C5 /* Dex3.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1A3BAE312BAC79DC003498C5 /* Dex3.xcdatamodeld */; };
 		1AB835502BB19B4C009743BF /* TempPokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AB8354F2BB19B4C009743BF /* TempPokemon.swift */; };
 		1AB835532BB1DBF9009743BF /* FetchController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AB835522BB1DBF9009743BF /* FetchController.swift */; };
+		1AB835572BB1EFCB009743BF /* PokemonViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AB835562BB1EFCB009743BF /* PokemonViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		1A3BAE322BAC79DC003498C5 /* Dex3.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Dex3.xcdatamodel; sourceTree = "<group>"; };
 		1AB8354F2BB19B4C009743BF /* TempPokemon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TempPokemon.swift; sourceTree = "<group>"; };
 		1AB835522BB1DBF9009743BF /* FetchController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchController.swift; sourceTree = "<group>"; };
+		1AB835562BB1EFCB009743BF /* PokemonViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				1AB835512BB1DBE9009743BF /* Services */,
 				1A3BAE3A2BAC79F7003498C5 /* Models */,
+				1AB835552BB1EFA8009743BF /* ViewModels */,
 				1A3BAE392BAC79F1003498C5 /* Views */,
 				1A3BAE262BAC79DB003498C5 /* Dex3App.swift */,
 				1A3BAE2F2BAC79DC003498C5 /* Persistence.swift */,
@@ -101,6 +104,14 @@
 				1AB835522BB1DBF9009743BF /* FetchController.swift */,
 			);
 			path = Services;
+			sourceTree = "<group>";
+		};
+		1AB835552BB1EFA8009743BF /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				1AB835562BB1EFCB009743BF /* PokemonViewModel.swift */,
+			);
+			path = ViewModels;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -176,6 +187,7 @@
 				1A3BAE302BAC79DC003498C5 /* Persistence.swift in Sources */,
 				1A3BAE332BAC79DC003498C5 /* Dex3.xcdatamodeld in Sources */,
 				1AB835532BB1DBF9009743BF /* FetchController.swift in Sources */,
+				1AB835572BB1EFCB009743BF /* PokemonViewModel.swift in Sources */,
 				1AB835502BB19B4C009743BF /* TempPokemon.swift in Sources */,
 				1A3BAE292BAC79DB003498C5 /* ContentView.swift in Sources */,
 				1A3BAE272BAC79DB003498C5 /* Dex3App.swift in Sources */,

@@ -3,4 +3,154 @@
    uuid = "8463FF84-5BF1-4281-9104-4872E3BB11EB"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E53B4B0-7C1A-4600-8D46-8EA28875D1B0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dex3/ViewModels/PokemonViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getPokemon()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0E53B4B0-7C1A-4600-8D46-8EA28875D1B0 - c4b712d69b3129ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Dex3.PokemonViewModel.getPokemon() async -&gt; ()"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmaronde/Documents/repos/SwiftUI/Dex3/Dex3/ViewModels/PokemonViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35">
+               </Location>
+               <Location
+                  uuid = "0E53B4B0-7C1A-4600-8D46-8EA28875D1B0 - ff9c2eff00d8e5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Dex3.PokemonViewModel.getPokemon() async -&gt; ()"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmaronde/Documents/repos/SwiftUI/Dex3/Dex3/ViewModels/PokemonViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43">
+               </Location>
+               <Location
+                  uuid = "0E53B4B0-7C1A-4600-8D46-8EA28875D1B0 - ff9c2eff00d8f42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Dex3.PokemonViewModel.getPokemon() async -&gt; ()"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmaronde/Documents/repos/SwiftUI/Dex3/Dex3/ViewModels/PokemonViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35">
+               </Location>
+               <Location
+                  uuid = "0E53B4B0-7C1A-4600-8D46-8EA28875D1B0 - 3872472a177c704b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Dex3.PokemonViewModel.getPokemon() async -&gt; ()"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmaronde/Documents/repos/SwiftUI/Dex3/Dex3/ViewModels/PokemonViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43">
+               </Location>
+               <Location
+                  uuid = "0E53B4B0-7C1A-4600-8D46-8EA28875D1B0 - 3872472a177c7153"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Dex3.PokemonViewModel.getPokemon() async -&gt; ()"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmaronde/Documents/repos/SwiftUI/Dex3/Dex3/ViewModels/PokemonViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35">
+               </Location>
+               <Location
+                  uuid = "0E53B4B0-7C1A-4600-8D46-8EA28875D1B0 - 7613ed1dd19e2c4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Dex3.PokemonViewModel.getPokemon() async -&gt; ()"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmaronde/Documents/repos/SwiftUI/Dex3/Dex3/ViewModels/PokemonViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43">
+               </Location>
+               <Location
+                  uuid = "0E53B4B0-7C1A-4600-8D46-8EA28875D1B0 - 7613ed1dd19e2d52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Dex3.PokemonViewModel.getPokemon() async -&gt; ()"
+                  moduleName = "Dex3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmaronde/Documents/repos/SwiftUI/Dex3/Dex3/ViewModels/PokemonViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67FAF36A-117A-4A61-9313-868EEE23570C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dex3/ViewModels/PokemonViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getPokemon()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5D78AC1-0C23-4F5F-A435-F5A14E451F95"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dex3/ViewModels/PokemonViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "getPokemon()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
